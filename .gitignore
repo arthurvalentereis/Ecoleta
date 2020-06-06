@@ -1,3 +1,7 @@
+server-ecoleta/upload/*
+!upload/.gitkeep
+*.sqlite
+
 # Logs
 logs
 *.log
